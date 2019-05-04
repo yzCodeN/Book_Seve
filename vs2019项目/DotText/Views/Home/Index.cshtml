@@ -1,0 +1,20 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>主页面</title>
+    <link href="~/Content/bootstrap.css" rel="stylesheet" />
+    <link href="~/Content/bootstrap-theme.css" rel="stylesheet" />
+</head>
+<body>
+    <div>
+        <h1>天天</h1>
+        @Html.ActionLink("用户反馈", "RsvpForm");  @*Html是一个帮助类,ActionLink方法，第一个参数为一个超链接名，第二个参数为点击超链接访问的界面*@
+    </div>
+</body>
+</html>

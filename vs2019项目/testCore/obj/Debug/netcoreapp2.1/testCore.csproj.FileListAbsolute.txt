@@ -1,0 +1,14 @@
+D:\vs2019项目\testCore\bin\Debug\netcoreapp2.1\testCore.deps.json
+D:\vs2019项目\testCore\bin\Debug\netcoreapp2.1\testCore.runtimeconfig.json
+D:\vs2019项目\testCore\bin\Debug\netcoreapp2.1\testCore.runtimeconfig.dev.json
+D:\vs2019项目\testCore\bin\Debug\netcoreapp2.1\testCore.dll
+D:\vs2019项目\testCore\bin\Debug\netcoreapp2.1\testCore.pdb
+D:\vs2019项目\testCore\obj\Debug\netcoreapp2.1\testCore.csprojAssemblyReference.cache
+D:\vs2019项目\testCore\obj\Debug\netcoreapp2.1\testCore.csproj.CoreCompileInputs.cache
+D:\vs2019项目\testCore\obj\Debug\netcoreapp2.1\testCore.RazorAssemblyInfo.cache
+D:\vs2019项目\testCore\obj\Debug\netcoreapp2.1\testCore.RazorAssemblyInfo.cs
+D:\vs2019项目\testCore\obj\Debug\netcoreapp2.1\testCore.AssemblyInfoInputs.cache
+D:\vs2019项目\testCore\obj\Debug\netcoreapp2.1\testCore.AssemblyInfo.cs
+D:\vs2019项目\testCore\obj\Debug\netcoreapp2.1\testCore.RazorTargetAssemblyInfo.cache
+D:\vs2019项目\testCore\obj\Debug\netcoreapp2.1\testCore.dll
+D:\vs2019项目\testCore\obj\Debug\netcoreapp2.1\testCore.pdb
